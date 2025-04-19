@@ -51,7 +51,7 @@ The model clusters **388 PRPD images** into 5 distinct groups, each correlating 
 │
 ├── Raw Images/                   # 512x512 preprocessed PRPD images (PNG)
 │
-├── final_report.pdf              # Full technical report (8,500+ words)
+├── final_report.pdf              # Full technical report (9,100+ words)
 └── README.md                     # You're here!
 ```
 
