@@ -1,7 +1,7 @@
 # Unsupervised PRPD Pattern Clustering using CNN + Wavelet Scattering
 
 This repository contains the code, data, and clustering results for my final year engineering project:  
-**"Using Unsupervised Machine Learning and Wavelet Scattering Transform to Analyse PRPD Patterns for High Voltage Applications."**
+**"Using Unsupervised Machine Learning to Analyse PRPD Patterns for High Voltage Applications."**
 
 ---
 
